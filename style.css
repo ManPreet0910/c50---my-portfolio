@@ -1,0 +1,20 @@
+h1{
+    color: aquamarine;
+}
+p{
+    color: rgb(239, 135, 8);
+}
+
+.header{
+    background-color: brown;
+    display: flex;
+    justify-content:space-between ;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+p,h2{
+    text-align: center;
+}
